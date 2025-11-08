@@ -1,0 +1,7 @@
+python-bithumb
+openai
+streamlit
+pandas
+plotly
+python-dotenv
+requests
